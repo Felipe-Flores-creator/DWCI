@@ -1,3 +1,7 @@
+
+<img width="614" height="455" alt="Region_Ñuble" src="https://github.com/user-attachments/assets/fef262dc-79e5-4cc2-9820-e3a0c0a84157" />
+
+
 # 🌊 DWCI Pro – Depth Weighted Water Capture Index
 
 Herramienta desarrollada en ArcGIS Pro para generar un índice de captación hídrica basado en análisis raster y ponderación multicriterio.
